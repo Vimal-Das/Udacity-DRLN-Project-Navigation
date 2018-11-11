@@ -1,0 +1,2 @@
+#  Project Report : Navigation DRLN
+The project implements a simple agent trained using Reinforcement Learning to navigate large environment in continuous space and collect rewards (yellow bananas) whilst avoiding collisions (blue bananas).
